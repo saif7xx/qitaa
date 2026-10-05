@@ -3,7 +3,9 @@
 A startup concept and clickable bilingual (Arabic/English) app prototype that connects drivers with spare-parts shops in Oman.
 Developed as an Entrepreneurship project at UTAS (2025-26) and pushed further as a real startup idea.
 
-<p align="center"><img src="docs/screenshot.png" width="300" alt="Qitaa prototype"></p>
+<p align="center"><img src="docs/screenshot.png" width="420" alt="Qitaa prototype"></p>
+
+<p align="center"><img src="docs/business-model-canvas.png" width="760" alt="Qitaa Business Model Canvas"></p>
 
 ## The problem
 Finding one car part today means driving to **3–5 shops**, losing **2–4 hours**, and facing **30%+ price differences**.
